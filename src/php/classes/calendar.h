@@ -12,6 +12,8 @@
 #ifndef ECMA_INTL_PHP_CLASSES_CALENDAR_H
 #define ECMA_INTL_PHP_CLASSES_CALENDAR_H
 
+#include "src/php/php_common.h"
+
 extern zend_class_entry *ecmaIntlCalendarEnum;
 
 void registerEcmaIntlCalendarEnum(void);

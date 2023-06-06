@@ -12,19 +12,6 @@
  * @generate-class-entries
  */
 
-namespace Ecma
-{
-    final class Intl
-    {
-        /**
-         * Intl may not be instantiated
-         */
-        private function __construct()
-        {
-        }
-    }
-}
-
 namespace Ecma\Intl
 {
     /**
