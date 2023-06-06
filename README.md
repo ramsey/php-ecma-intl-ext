@@ -1,7 +1,7 @@
 <h1 align="center">php-ecma-intl/ext</h1>
 
 <p align="center">
-    <strong>A PHP implementation of ECMA-402</strong>
+    <strong>A PHP implementation of [ECMA-402](https://tc39.es/ecma402/#introduction)</strong>
 </p>
 
 <!--
