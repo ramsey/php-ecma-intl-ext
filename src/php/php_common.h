@@ -13,6 +13,7 @@
 #define ECMA_INTL_PHP_COMMON_H
 
 #include <php.h>
+#include <zend_enum.h>
 
 #include "src/common.h"
 
